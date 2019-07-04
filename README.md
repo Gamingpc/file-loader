@@ -11,6 +11,7 @@
 [![coverage][cover]][cover-url]
 [![chat][chat]][chat-url]
 [![size][size]][size-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGamingpc%2Ffile-loader.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGamingpc%2Ffile-loader?ref=badge_shield)
 
 # file-loader
 
@@ -601,3 +602,6 @@ Please take a moment to read our contributing guidelines if you haven't yet done
 [chat-url]: https://gitter.im/webpack/webpack
 [size]: https://packagephobia.now.sh/badge?p=file-loader
 [size-url]: https://packagephobia.now.sh/result?p=file-loader
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGamingpc%2Ffile-loader.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGamingpc%2Ffile-loader?ref=badge_large)
